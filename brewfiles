@@ -4,6 +4,11 @@ brew install --cask alt-tab
 brew install --cask hiddenbar
 brew install --cask stats
 brew install --cask wrap
-                    visual-studio-code
-                    figma
+brew install neovim
+brew tap homebrew/cask-fonts
+brew install font-meslo-lg-nerd-font
+brew install ripgrep
+brew install node
+brew install --cask visual-studio-code
+brew install --cask figma
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
